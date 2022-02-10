@@ -1,0 +1,378 @@
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.csproj.AssemblyReference.cache
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.csproj.CoreCompileInputs.cache
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.iOS.exe
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.iOS.pdb
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.pdb
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.csproj.CopyComplete
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.exe
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.iOS.exe
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.iOS.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.csproj.AssemblyReference.cache
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.csproj.CoreCompileInputs.cache
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.csproj.CopyComplete
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.exe
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.iOS.exe
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.iOS.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.csproj.AssemblyReference.cache
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.csproj.CoreCompileInputs.cache
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.csproj.CopyComplete
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.exe
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.iOS.exe
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.iOS.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.csproj.AssemblyReference.cache
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.csproj.CoreCompileInputs.cache
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.csproj.CopyComplete
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.exe
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.pdb
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.iOS.exe
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.iOS.pdb
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.pdb
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.csproj.AssemblyReference.cache
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.csproj.CoreCompileInputs.cache
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.csproj.CopyComplete
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.exe
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.pdb
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.iOS.exe
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.iOS.pdb
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\bin\iPhoneSimulator\Debug\MobilneHotel.pdb
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.csproj.AssemblyReference.cache
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.csproj.CoreCompileInputs.cache
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.csproj.CopyComplete
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.exe
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotel\MobilneHotel.iOS\obj\iPhoneSimulator\Debug\MobilneHotel.iOS.pdb

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="0de96c32237e4d24913c38c1de3a298e" Name="Diagram1">
+        <EntityTypeShape EntityType="HotelMobilneModel.Klienci" Width="1.5" PointX="3" PointY="5.375" />
+        <EntityTypeShape EntityType="HotelMobilneModel.Pokoje" Width="1.5" PointX="3" PointY="1.125" />
+        <EntityTypeShape EntityType="HotelMobilneModel.Pracownicy" Width="1.5" PointX="3" PointY="8.25" />
+        <EntityTypeShape EntityType="HotelMobilneModel.Rezerwacje" Width="1.5" PointX="5.25" PointY="1" />
+        <EntityTypeShape EntityType="HotelMobilneModel.RodzajePokojow" Width="1.5" PointX="0.75" PointY="1.5" />
+        <EntityTypeShape EntityType="HotelMobilneModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="4.75" />
+        <AssociationConnector Association="HotelMobilneModel.FK_Rezerwacja_Klient" />
+        <AssociationConnector Association="HotelMobilneModel.FK_Pokoje_RodzajePokojow" />
+        <AssociationConnector Association="HotelMobilneModel.FK_Rezerwacje_Pokoje" />
+        <AssociationConnector Association="HotelMobilneModel.FK_Rezerwacja_Pracownik" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

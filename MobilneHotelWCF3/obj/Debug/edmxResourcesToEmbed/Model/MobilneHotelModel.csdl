@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HotelMobilneModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="HotelMobilneEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(HotelMobilneModel.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(HotelMobilneModel.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+    <EntitySet Name="Klienci" EntityType="HotelMobilneModel.Klienci" />
+    <EntitySet Name="Pokoje" EntityType="HotelMobilneModel.Pokoje" />
+    <EntitySet Name="Pracownicy" EntityType="HotelMobilneModel.Pracownicy" />
+    <EntitySet Name="Rezerwacje" EntityType="HotelMobilneModel.Rezerwacje" />
+    <EntitySet Name="RodzajePokojow" EntityType="HotelMobilneModel.RodzajePokojow" />
+    <EntitySet Name="sysdiagrams" EntityType="HotelMobilneModel.sysdiagrams" />
+    <AssociationSet Name="FK_Rezerwacja_Klient" Association="HotelMobilneModel.FK_Rezerwacja_Klient">
+      <End Role="Klienci" EntitySet="Klienci" />
+      <End Role="Rezerwacje" EntitySet="Rezerwacje" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pokoje_RodzajePokojow" Association="HotelMobilneModel.FK_Pokoje_RodzajePokojow">
+      <End Role="RodzajePokojow" EntitySet="RodzajePokojow" />
+      <End Role="Pokoje" EntitySet="Pokoje" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Rezerwacje_Pokoje" Association="HotelMobilneModel.FK_Rezerwacje_Pokoje">
+      <End Role="Pokoje" EntitySet="Pokoje" />
+      <End Role="Rezerwacje" EntitySet="Rezerwacje" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Rezerwacja_Pracownik" Association="HotelMobilneModel.FK_Rezerwacja_Pracownik">
+      <End Role="Pracownicy" EntitySet="Pracownicy" />
+      <End Role="Rezerwacje" EntitySet="Rezerwacje" />
+    </AssociationSet>
+  </EntityContainer>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+  <EntityType Name="Klienci">
+    <Key>
+      <PropertyRef Name="IdKlienta" />
+    </Key>
+    <Property Name="IdKlienta" Type="Int32" Nullable="false" />
+    <Property Name="Imie" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Nazwisko" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Telefon" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Rezerwacje" Relationship="HotelMobilneModel.FK_Rezerwacja_Klient" FromRole="Klienci" ToRole="Rezerwacje" />
+  </EntityType>
+  <EntityType Name="Pokoje">
+    <Key>
+      <PropertyRef Name="IdPokoju" />
+    </Key>
+    <Property Name="IdPokoju" Type="Int32" Nullable="false" />
+    <Property Name="IdRodzajuPokoju" Type="Int32" />
+    <Property Name="NrPokoju" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Pietro" Type="Int32" />
+    <Property Name="Nazwa" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Cena" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="RodzajePokojow" Relationship="HotelMobilneModel.FK_Pokoje_RodzajePokojow" FromRole="Pokoje" ToRole="RodzajePokojow" />
+    <NavigationProperty Name="Rezerwacje" Relationship="HotelMobilneModel.FK_Rezerwacje_Pokoje" FromRole="Pokoje" ToRole="Rezerwacje" />
+  </EntityType>
+  <EntityType Name="Pracownicy">
+    <Key>
+      <PropertyRef Name="IdPracownika" />
+    </Key>
+    <Property Name="IdPracownika" Type="Int32" Nullable="false" />
+    <Property Name="Imie" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Nazwisko" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Pesel" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Telefon" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Miasto" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="KodPocztowy" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Ulica" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NumerDomu" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NumerLokalu" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Rezerwacje" Relationship="HotelMobilneModel.FK_Rezerwacja_Pracownik" FromRole="Pracownicy" ToRole="Rezerwacje" />
+  </EntityType>
+  <EntityType Name="Rezerwacje">
+    <Key>
+      <PropertyRef Name="IdRezerwacji" />
+    </Key>
+    <Property Name="IdRezerwacji" Type="Int32" Nullable="false" />
+    <Property Name="IdKlienta" Type="Int32" />
+    <Property Name="IdPracownika" Type="Int32" />
+    <Property Name="IdPokoju" Type="Int32" />
+    <Property Name="DataRozpoczecia" Type="DateTime" Precision="0" />
+    <Property Name="DataZakonczenia" Type="DateTime" Precision="0" />
+    <Property Name="Razem" Type="Decimal" Precision="18" Scale="0" />
+    <NavigationProperty Name="Klienci" Relationship="HotelMobilneModel.FK_Rezerwacja_Klient" FromRole="Rezerwacje" ToRole="Klienci" />
+    <NavigationProperty Name="Pokoje" Relationship="HotelMobilneModel.FK_Rezerwacje_Pokoje" FromRole="Rezerwacje" ToRole="Pokoje" />
+    <NavigationProperty Name="Pracownicy" Relationship="HotelMobilneModel.FK_Rezerwacja_Pracownik" FromRole="Rezerwacje" ToRole="Pracownicy" />
+  </EntityType>
+  <EntityType Name="RodzajePokojow">
+    <Key>
+      <PropertyRef Name="IdRodzajuPokoju" />
+    </Key>
+    <Property Name="IdRodzajuPokoju" Type="Int32" Nullable="false" />
+    <Property Name="Nazwa" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Opis" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Pokoje" Relationship="HotelMobilneModel.FK_Pokoje_RodzajePokojow" FromRole="RodzajePokojow" ToRole="Pokoje" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_Rezerwacja_Klient">
+    <End Type="HotelMobilneModel.Klienci" Role="Klienci" Multiplicity="0..1" />
+    <End Type="HotelMobilneModel.Rezerwacje" Role="Rezerwacje" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Klienci">
+        <PropertyRef Name="IdKlienta" />
+      </Principal>
+      <Dependent Role="Rezerwacje">
+        <PropertyRef Name="IdKlienta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pokoje_RodzajePokojow">
+    <End Type="HotelMobilneModel.RodzajePokojow" Role="RodzajePokojow" Multiplicity="0..1" />
+    <End Type="HotelMobilneModel.Pokoje" Role="Pokoje" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RodzajePokojow">
+        <PropertyRef Name="IdRodzajuPokoju" />
+      </Principal>
+      <Dependent Role="Pokoje">
+        <PropertyRef Name="IdRodzajuPokoju" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Rezerwacje_Pokoje">
+    <End Type="HotelMobilneModel.Pokoje" Role="Pokoje" Multiplicity="0..1" />
+    <End Type="HotelMobilneModel.Rezerwacje" Role="Rezerwacje" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pokoje">
+        <PropertyRef Name="IdPokoju" />
+      </Principal>
+      <Dependent Role="Rezerwacje">
+        <PropertyRef Name="IdPokoju" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Rezerwacja_Pracownik">
+    <End Type="HotelMobilneModel.Pracownicy" Role="Pracownicy" Multiplicity="0..1" />
+    <End Type="HotelMobilneModel.Rezerwacje" Role="Rezerwacje" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pracownicy">
+        <PropertyRef Name="IdPracownika" />
+      </Principal>
+      <Dependent Role="Rezerwacje">
+        <PropertyRef Name="IdPracownika" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

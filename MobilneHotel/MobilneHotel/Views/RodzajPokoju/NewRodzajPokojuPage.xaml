@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobilneHotel.Views.RodzajPokoju.NewRodzajPokojuPage"
+             Title="Dane rodzaju pokoju">
+    <ContentPage.Content>
+        <StackLayout Spacing="3" Padding="25,15">
+            <StackLayout Style="{StaticResource stackStyle}"  >
+                <Label Text="Nazwa" Style="{StaticResource labelStyle}" />
+                <Entry Text="{Binding Nazwa, Mode=TwoWay}" Style="{StaticResource entryStyle}" />
+            </StackLayout>
+            <StackLayout Style="{StaticResource stackStyle}"  >
+                <Label Text="Opis"  Style="{StaticResource labelStyle}" />
+                <Entry Text="{Binding Opis, Mode=TwoWay}" Style="{StaticResource entryStyle}"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" VerticalOptions="EndAndExpand">
+                <Button Text="Anuluj" Command="{Binding CancelCommand}" Style="{StaticResource cancelStyle}"></Button>
+                <Button Text="Zapisz" Command="{Binding SaveCommand}" Style="{StaticResource saveStyle}"></Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

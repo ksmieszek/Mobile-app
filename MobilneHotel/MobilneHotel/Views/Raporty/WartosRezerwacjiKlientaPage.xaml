@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobilneHotel.Views.Raporty.WartosRezerwacjiKlientaPage"
+             Title="Wartość rezerwacji klienta">
+    <ContentPage.Content>
+    <StackLayout Spacing="3" Padding="25,15">
+        <StackLayout Style="{StaticResource stackStyle}"  >
+            <Label Text="Wybierz Klienta"  Style="{StaticResource labelStyle}"  />
+            <Picker ItemsSource="{Binding Klienci}" 
+                ItemDisplayBinding="{Binding KlientNazwa}" 
+                SelectedItem="{Binding SelectedKlient}" 
+                Style="{StaticResource pickerStyle}"
+                />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" Margin="10,30,0,0">
+                <Label Text="Łączna wartość rezerwacji klienta: " Style="{StaticResource labelStyle}" WidthRequest="300" />
+                <Label Text="{Binding WartoscRezerwacjiKlienta, Mode=TwoWay}" Style="{StaticResource labelStyle}" WidthRequest="60"/>
+        </StackLayout>
+        <Button Text="Oblicz" Command="{Binding WartoscRezerwacjiKlientaCommand}" Style="{StaticResource saveStyle}" HorizontalOptions="Center" Margin="50" />
+    </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

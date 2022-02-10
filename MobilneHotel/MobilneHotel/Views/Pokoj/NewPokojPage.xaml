@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobilneHotel.Views.Pokoj.NewPokojPage"
+             Title="Dane pokoju">
+    
+    <ContentPage.Content>
+        <StackLayout Spacing="3" Padding="25,15">
+            <StackLayout Style="{StaticResource stackStyle}"  >
+                <Label Text="Rodzaj pokoju"  Style="{StaticResource labelStyle}"  />
+                <Picker ItemsSource="{Binding RodzajePokojow}" 
+                    ItemDisplayBinding="{Binding Nazwa}" 
+                    SelectedItem="{Binding SelectedRodzajPokoju}" 
+                    Style="{StaticResource pickerStyle}"
+                    />
+            </StackLayout>
+            <StackLayout Style="{StaticResource stackStyle}"  >
+                <Label Text="Nazwa"  Style="{StaticResource labelStyle}"  />
+                <Entry Text="{Binding Nazwa, Mode=TwoWay}" Style="{StaticResource entryStyle}" />
+            </StackLayout>
+            <StackLayout Style="{StaticResource stackStyle}"  >
+                <Label Text="Numer pokoju"  Style="{StaticResource labelStyle}" />
+                <Entry Text="{Binding NrPokoju, Mode=TwoWay}" Style="{StaticResource entryStyle}"/>
+            </StackLayout>
+            <StackLayout Style="{StaticResource stackStyle}"  >
+                <Label Text="Piętro"  Style="{StaticResource labelStyle}" />
+                <Entry Text="{Binding Pietro, Mode=TwoWay}" Style="{StaticResource entryStyle}"/>
+            </StackLayout>
+            <StackLayout Style="{StaticResource stackStyle}"  >
+                <Label Text="Status"  Style="{StaticResource labelStyle}" />
+                <Entry Text="{Binding Status, Mode=TwoWay}" Style="{StaticResource entryStyle}"/>
+            </StackLayout>
+            <StackLayout Style="{StaticResource stackStyle}"  >
+                <Label Text="Cena"  Style="{StaticResource labelStyle}" />
+                <Entry Text="{Binding Cena, Mode=TwoWay}" Style="{StaticResource entryStyle}"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" VerticalOptions="EndAndExpand">
+                <Button Text="Anuluj" Command="{Binding CancelCommand}" Style="{StaticResource cancelStyle}"></Button>
+                <Button Text="Zapisz" Command="{Binding SaveCommand}" Style="{StaticResource saveStyle}"></Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

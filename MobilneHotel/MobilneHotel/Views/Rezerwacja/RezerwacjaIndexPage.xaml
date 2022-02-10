@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobilneHotel.Views.Rezerwacja.RezerwacjaIndexPage"
+             Title="{Binding Title}"
+             xmlns:local="clr-namespace:MobilneHotel.ViewModels.Rezerwacja"  
+             xmlns:model="clr-namespace:MobilneHotelServiceReference"
+             x:Name="BrowseItemsPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Dodaj" Command="{Binding AddItemCommand}"  IconImageSource="icons/add.png" />
+    </ContentPage.ToolbarItems>
+
+    <RefreshView x:DataType="local:RezerwacjaViewModel" Command="{Binding LoadItemsCommand}" IsRefreshing="{Binding IsBusy, Mode=TwoWay}">
+        <CollectionView x:Name="ItemsListView"
+                ItemsSource="{Binding Items}"
+                SelectionMode="None"
+                Margin="0,15">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Padding="10" x:DataType="model:RezerwacjaForView">
+                        <Grid BackgroundColor="#222">
+                            <StackLayout Orientation="Horizontal" Margin="10, 10, 10, -8">
+                                <Image Source="icons/room.png" HeightRequest="20" VerticalOptions="Center" Margin="0,2,20,0" />
+                                <Label Text="{Binding KlientDane}"  FontSize="20"  TextColor="White" VerticalOptions="Center" >
+                                </Label>
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal" Grid.Row="1" Margin="57, 10, 0, 0">
+                                <Label Text="Pracownik wykonujący: " FontSize="14"  TextColor="Gray" />
+                                <Label Text="{Binding PracownikDane}" LineBreakMode="NoWrap" Style="{DynamicResource ListItemDetailTextStyle}" FontSize="13" />
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal" Grid.Row="2" Margin="57, 5, 0, 0">
+                                <Label Text="Pokój: " FontSize="14"  TextColor="Gray" />
+                                <Label Text="{Binding PokojDane}" FontSize="14" TextColor="#fff" />
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal" Grid.Row="3" Margin="57, 6, 0, 0">
+                                <Label Text="Od: " FontSize="14"  TextColor="Gray" />
+                                <Label Text="{Binding DataRozpoczecia ,StringFormat='{0:MMMM dd yyyy}'}" FontSize="14" TextColor="#fff" />
+                                <Label Text="Do: " FontSize="14"  TextColor="Gray" Margin="20,0,0,0" />
+                                <Label Text="{Binding DataZakonczenia, StringFormat='{0:MMMM dd yyyy}'}" FontSize="14" TextColor="#fff" />
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal" Grid.Row="4" Margin="57, 6, 0, 0">
+                                <Label Text="Razem: " FontSize="14"  TextColor="Gray" />
+                                <Label Text="{Binding Razem}" FontSize="14" TextColor="#fff" />
+                                <Label>zł</Label>
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal" Grid.Row="5" Margin="0, -20, 10, 10" HorizontalOptions="End">
+                                <Button Text="Usuń" 
+                            Command="{Binding Source={RelativeSource AncestorType={x:Type local:RezerwacjaViewModel}}, Path=ItemDelete}"  
+                                CommandParameter="{Binding .}" Style="{StaticResource deleteStyle}"/>
+                            </StackLayout>
+                        </Grid>
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer 
+                                NumberOfTapsRequired="1"
+                                Command="{Binding Source={RelativeSource AncestorType={x:Type local:RezerwacjaViewModel}}, Path=ItemTapped}"		
+                                CommandParameter="{Binding .}">
+                            </TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </RefreshView>
+</ContentPage>

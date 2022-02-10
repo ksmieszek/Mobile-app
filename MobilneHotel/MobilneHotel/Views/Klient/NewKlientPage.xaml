@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobilneHotel.Views.Klient.NewKlientPage"
+             Title="Dane klienta">
+    <ContentPage.Content>
+        <StackLayout Spacing="3" Padding="25,15">
+            <StackLayout Style="{StaticResource stackStyle}"  >
+                <Label Text="Imię" Style="{StaticResource labelStyle}" />
+                <Entry Text="{Binding Imie, Mode=TwoWay}" Style="{StaticResource entryStyle}" />
+            </StackLayout>
+            <StackLayout Style="{StaticResource stackStyle}"  >
+                <Label Text="Nazwisko"  Style="{StaticResource labelStyle}"  />
+                <Entry Text="{Binding Nazwisko, Mode=TwoWay}" Style="{StaticResource entryStyle}" />
+            </StackLayout>
+            <StackLayout Style="{StaticResource stackStyle}"  >
+                <Label Text="Email"  Style="{StaticResource labelStyle}" />
+                <Entry Text="{Binding Email, Mode=TwoWay}" Style="{StaticResource entryStyle}"/>
+            </StackLayout>
+            <StackLayout Style="{StaticResource stackStyle}"  >
+                <Label Text="Telefon"  Style="{StaticResource labelStyle}" />
+                <Entry Text="{Binding Telefon, Mode=TwoWay}" Style="{StaticResource entryStyle}"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" VerticalOptions="EndAndExpand">
+                <Button Text="Anuluj" Command="{Binding CancelCommand}" Style="{StaticResource cancelStyle}"></Button>
+                <Button Text="Zapisz" Command="{Binding SaveCommand}" Style="{StaticResource saveStyle}"></Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

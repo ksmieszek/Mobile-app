@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobilneHotel.Views.Pokoj.PokojIndexPage"
+             Title="{Binding Title}"
+             xmlns:local="clr-namespace:MobilneHotel.ViewModels.Pokoj"  
+             xmlns:model="clr-namespace:MobilneHotelServiceReference"
+             x:Name="BrowseItemsPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Dodaj" Command="{Binding AddItemCommand}" IconImageSource="icons/add.png" />
+    </ContentPage.ToolbarItems>
+    <RefreshView x:DataType="local:PokojViewModel" Command="{Binding LoadItemsCommand}" IsRefreshing="{Binding IsBusy, Mode=TwoWay}">
+        <CollectionView x:Name="ItemsListView"
+                ItemsSource="{Binding Items}"
+                SelectionMode="None"
+                Margin="0,15">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Padding="10" x:DataType="model:PokojForView">
+                        <Grid BackgroundColor="#222" >
+                            <StackLayout Orientation="Horizontal" Margin="10, 10, 10, -8">
+                                <Image Source="icons/room.png" HeightRequest="20" VerticalOptions="Center" Margin="0,2,20,0" />
+                                <Label Text="{Binding Nazwa}" FontSize="20"  TextColor="White" VerticalOptions="Center" >
+                                </Label>
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal" Grid.Row="1" Margin="57, 10, 0, 0">
+                                <Label Text="Numer pokoju: " FontSize="14"  TextColor="Gray" />
+                                <Label Text="{Binding NrPokoju}" FontSize="14" TextColor="Gray" />
+                                <Label Text="Piętro: " FontSize="14"  TextColor="Gray" Margin="30,0,0,0" />
+                                <Label Text="{Binding Pietro}" FontSize="14" TextColor="Gray" />
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal" Grid.Row="2" Margin="57, 5, 0, 0">
+                                <Label Text="Status: " FontSize="14"  TextColor="Gray" />
+                                <Label Text="{Binding Status}" FontSize="14" TextColor="#fff" />
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal" Grid.Row="3" Margin="57, 3, 0, 0">
+                                <Label Text="Rodzja pokoju: " FontSize="14"  TextColor="Gray" />
+                                <Label Text="{Binding RodzajPokojuDane}" FontSize="14" TextColor="Gray" />
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal" Grid.Row="4" Margin="57, 0, 0, 0">
+                                <Label Text="Cena za dobę: " FontSize="14"  TextColor="Gray" />
+                                <Label FontSize="14" TextColor="Gray" >
+                                    <Label.Text>
+                                        <MultiBinding StringFormat="{}{0} pln">
+                                        <Binding Path="Cena" />
+                                    </MultiBinding>
+                                    </Label.Text>
+                                </Label>
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal" Grid.Row="5" Margin="0, -20, 10, 10" HorizontalOptions="End">
+                                <Button Text="Usuń" Command="{Binding Source={RelativeSource AncestorType={x:Type local:PokojViewModel}}, Path=ItemDelete}" CommandParameter="{Binding .}" Style="{StaticResource deleteStyle}" />
+                            </StackLayout>
+                        </Grid>
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer 
+                                NumberOfTapsRequired="1"
+                                Command="{Binding Source={RelativeSource AncestorType={x:Type local:PokojViewModel}}, Path=ItemTapped}"		
+                                CommandParameter="{Binding .}">
+                            </TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </RefreshView>
+</ContentPage>
+

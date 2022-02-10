@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobilneHotel.Views.Klient.KlientIndexPage"
+             Title="{Binding Title}"
+             xmlns:local="clr-namespace:MobilneHotel.ViewModels.Klient"  
+             xmlns:model="clr-namespace:MobilneHotelServiceReference"  
+             x:Name="BrowseItemsPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Dodaj" Command="{Binding AddItemCommand}" IconImageSource="icons/add.png" />
+    </ContentPage.ToolbarItems>
+    <RefreshView x:DataType="local:KlientViewModel" Command="{Binding LoadItemsCommand}" IsRefreshing="{Binding IsBusy, Mode=TwoWay}">
+        <CollectionView x:Name="ItemsListView"
+                ItemsSource="{Binding Items}"
+                SelectionMode="None"
+                Margin="0,15">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Padding="10" x:DataType="model:KlientForView">
+                        <Grid BackgroundColor="#222" >
+                            <StackLayout Orientation="Horizontal" Margin="10, 10, 10, -8">
+                                <Image Source="icons/clients.png" HeightRequest="20" VerticalOptions="Center" Margin="0,2,20,0" />
+                                <Label  FontSize="20"  TextColor="White" VerticalOptions="Center" >
+                                    <Label.Text>
+                                        <MultiBinding StringFormat="{}{0} {1}">
+                                            <Binding Path="Imie" />
+                                            <Binding Path="Nazwisko" />
+                                        </MultiBinding>
+                                    </Label.Text>
+                                </Label>
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal" Grid.Row="1" Margin="57, 10, 0, 0">
+                                <Label Text="Numer telefonu: " FontSize="14"  TextColor="Gray" />
+                                <Label Text="{Binding Telefon}" FontSize="14" TextColor="Gray" />
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal" Grid.Row="2" Margin="57, 0, 0, 0">
+                                <Label Text="Adres email: " FontSize="14"  TextColor="Gray" />
+                                <Label Text="{Binding Email}" FontSize="14" TextColor="Gray" />
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal" Grid.Row="3" Margin="0, -20, 10, 10" HorizontalOptions="End">
+                                <Button Text="Usuń" Command="{Binding Source={RelativeSource AncestorType={x:Type local:KlientViewModel}}, Path=ItemDelete}" CommandParameter="{Binding .}" Style="{StaticResource deleteStyle}" />
+                            </StackLayout>
+                        </Grid>
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer 
+                                NumberOfTapsRequired="1"
+                                Command="{Binding Source={RelativeSource AncestorType={x:Type local:KlientViewModel}}, Path=ItemTapped}"		
+                                CommandParameter="{Binding .}">
+                            </TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </RefreshView>
+</ContentPage>

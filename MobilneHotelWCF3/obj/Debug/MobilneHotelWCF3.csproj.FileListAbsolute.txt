@@ -1,0 +1,141 @@
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll.config
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.pdb
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.xml
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.xml
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CoreCompileInputs.cache
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CopyComplete
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.dll
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.pdb
+C:\Users\tomek\Desktop\NoweMobilne\najnowsze\referencja 26.01\25.01 edycja i prawie usuwanie\24.01przeniesienie forview\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.AssemblyReference.cache
+C:\Users\Wielki_Wiewior\Desktop\28.01\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll.config
+C:\Users\Wielki_Wiewior\Desktop\28.01\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll
+C:\Users\Wielki_Wiewior\Desktop\28.01\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.pdb
+C:\Users\Wielki_Wiewior\Desktop\28.01\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.dll
+C:\Users\Wielki_Wiewior\Desktop\28.01\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.dll
+C:\Users\Wielki_Wiewior\Desktop\28.01\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.xml
+C:\Users\Wielki_Wiewior\Desktop\28.01\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.xml
+C:\Users\Wielki_Wiewior\Desktop\28.01\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.AssemblyReference.cache
+C:\Users\Wielki_Wiewior\Desktop\28.01\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CoreCompileInputs.cache
+C:\Users\Wielki_Wiewior\Desktop\28.01\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CopyComplete
+C:\Users\Wielki_Wiewior\Desktop\28.01\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.dll
+C:\Users\Wielki_Wiewior\Desktop\28.01\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll.config
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.xml
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.xml
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CoreCompileInputs.cache
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CopyComplete
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.pdb
+C:\Users\Wielki_Wiewior\Desktop\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll.config
+C:\Users\Wielki_Wiewior\Desktop\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll
+C:\Users\Wielki_Wiewior\Desktop\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.pdb
+C:\Users\Wielki_Wiewior\Desktop\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.dll
+C:\Users\Wielki_Wiewior\Desktop\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.dll
+C:\Users\Wielki_Wiewior\Desktop\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.xml
+C:\Users\Wielki_Wiewior\Desktop\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.xml
+C:\Users\Wielki_Wiewior\Desktop\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.AssemblyReference.cache
+C:\Users\Wielki_Wiewior\Desktop\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CoreCompileInputs.cache
+C:\Users\Wielki_Wiewior\Desktop\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CopyComplete
+C:\Users\Wielki_Wiewior\Desktop\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.dll
+C:\Users\Wielki_Wiewior\Desktop\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll.config
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.xml
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.xml
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CoreCompileInputs.cache
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CopyComplete
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 12 20\31.01.2022\31.01 dziwne przekierowanie\28.01\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.pdb
+C:\Users\Wielki_Wiewior\Desktop\31.01 o 14\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll.config
+C:\Users\Wielki_Wiewior\Desktop\31.01 o 14\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll
+C:\Users\Wielki_Wiewior\Desktop\31.01 o 14\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.pdb
+C:\Users\Wielki_Wiewior\Desktop\31.01 o 14\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.dll
+C:\Users\Wielki_Wiewior\Desktop\31.01 o 14\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.dll
+C:\Users\Wielki_Wiewior\Desktop\31.01 o 14\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.xml
+C:\Users\Wielki_Wiewior\Desktop\31.01 o 14\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.xml
+C:\Users\Wielki_Wiewior\Desktop\31.01 o 14\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.AssemblyReference.cache
+C:\Users\Wielki_Wiewior\Desktop\31.01 o 14\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CoreCompileInputs.cache
+C:\Users\Wielki_Wiewior\Desktop\31.01 o 14\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CopyComplete
+C:\Users\Wielki_Wiewior\Desktop\31.01 o 14\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.dll
+C:\Users\Wielki_Wiewior\Desktop\31.01 o 14\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll.config
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.pdb
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.xml
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.xml
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.AssemblyReference.cache
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CoreCompileInputs.cache
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CopyComplete
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.dll
+C:\Users\tomek\Desktop\NoweMobilne\31.01 14 30\31.01 o 14\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.pdb
+C:\Users\Wielki_Wiewior\Desktop\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll.config
+C:\Users\Wielki_Wiewior\Desktop\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll
+C:\Users\Wielki_Wiewior\Desktop\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.pdb
+C:\Users\Wielki_Wiewior\Desktop\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.dll
+C:\Users\Wielki_Wiewior\Desktop\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.dll
+C:\Users\Wielki_Wiewior\Desktop\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.xml
+C:\Users\Wielki_Wiewior\Desktop\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.xml
+C:\Users\Wielki_Wiewior\Desktop\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.AssemblyReference.cache
+C:\Users\Wielki_Wiewior\Desktop\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CoreCompileInputs.cache
+C:\Users\Wielki_Wiewior\Desktop\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CopyComplete
+C:\Users\Wielki_Wiewior\Desktop\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.dll
+C:\Users\Wielki_Wiewior\Desktop\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.pdb
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll.config
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.pdb
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.xml
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.xml
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.AssemblyReference.cache
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CoreCompileInputs.cache
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CopyComplete
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.dll
+C:\Users\tomek\Desktop\NoweMobilne\jusz luty\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.pdb
+C:\Users\Wielki_Wiewior\Desktop\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll.config
+C:\Users\Wielki_Wiewior\Desktop\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll
+C:\Users\Wielki_Wiewior\Desktop\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.pdb
+C:\Users\Wielki_Wiewior\Desktop\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.dll
+C:\Users\Wielki_Wiewior\Desktop\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.dll
+C:\Users\Wielki_Wiewior\Desktop\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.xml
+C:\Users\Wielki_Wiewior\Desktop\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.xml
+C:\Users\Wielki_Wiewior\Desktop\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.AssemblyReference.cache
+C:\Users\Wielki_Wiewior\Desktop\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CoreCompileInputs.cache
+C:\Users\Wielki_Wiewior\Desktop\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CopyComplete
+C:\Users\Wielki_Wiewior\Desktop\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.dll
+C:\Users\Wielki_Wiewior\Desktop\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.pdb
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll.config
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.pdb
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.xml
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.xml
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.AssemblyReference.cache
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CoreCompileInputs.cache
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CopyComplete
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.dll
+C:\Users\tomek\Desktop\koncowymobilne\nowy\koniec mobilne hotel\01.02 14\01.02 jusz luty\31.01 16.20 pobranie\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.pdb
+C:\Users\Wielki_Wiewior\Desktop\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll.config
+C:\Users\Wielki_Wiewior\Desktop\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.dll
+C:\Users\Wielki_Wiewior\Desktop\MobilneHotel\MobilneHotelWCF3\bin\MobilneHotelWCF3.pdb
+C:\Users\Wielki_Wiewior\Desktop\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.dll
+C:\Users\Wielki_Wiewior\Desktop\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.dll
+C:\Users\Wielki_Wiewior\Desktop\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.xml
+C:\Users\Wielki_Wiewior\Desktop\MobilneHotel\MobilneHotelWCF3\bin\EntityFramework.SqlServer.xml
+C:\Users\Wielki_Wiewior\Desktop\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CoreCompileInputs.cache
+C:\Users\Wielki_Wiewior\Desktop\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.csproj.CopyComplete
+C:\Users\Wielki_Wiewior\Desktop\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.dll
+C:\Users\Wielki_Wiewior\Desktop\MobilneHotel\MobilneHotelWCF3\obj\Debug\MobilneHotelWCF3.pdb

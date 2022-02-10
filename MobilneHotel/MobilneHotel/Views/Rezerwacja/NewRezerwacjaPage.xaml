@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobilneHotel.Views.Rezerwacja.NewRezerwacjaPage"
+             Title="Dane rezerwacji">
+    <ContentPage.Content>
+        <StackLayout Spacing="3" Padding="25,15">
+            <StackLayout Style="{StaticResource stackStyle}">
+                <Label Text="Klient"  Style="{StaticResource labelStyle}"  />
+                <Picker ItemsSource="{Binding Klienci}" 
+                    ItemDisplayBinding="{Binding KlientNazwa}" 
+                    SelectedItem="{Binding SelectedKlient}" 
+                    Style="{StaticResource pickerStyle}" />
+            </StackLayout>
+            <StackLayout Style="{StaticResource stackStyle}">
+                <Label Text="Pracownik"  Style="{StaticResource labelStyle}"  />
+                <Picker ItemsSource="{Binding Pracownicy}" 
+                    ItemDisplayBinding="{Binding PracownikNazwa}" 
+                    SelectedItem="{Binding SelectedPracownik}"
+                    Style="{StaticResource pickerStyle}" />
+            </StackLayout>
+            <StackLayout Style="{StaticResource stackStyle}">
+                <Label Text="Pokój"  Style="{StaticResource labelStyle}"  />
+                <Picker ItemsSource="{Binding Pokoje}" 
+                    ItemDisplayBinding="{Binding Nazwa}" 
+                    SelectedItem="{Binding SelectedPokoj}"
+                    Style="{StaticResource pickerStyle}" />
+            </StackLayout>
+            <StackLayout Style="{StaticResource stackStyle}">
+                <Label Text="Data od" Style="{StaticResource labelStyle}" />
+                <DatePicker Date="{Binding DataRozpoczecia, Mode=TwoWay}" 
+                            Style="{StaticResource datePickerStyle}"/>
+            </StackLayout>
+            <StackLayout Style="{StaticResource stackStyle}">
+                <Label Text="Data do" Style="{StaticResource labelStyle}" />
+                <DatePicker Date="{Binding DataZakonczenia, Mode=TwoWay}"
+                            Style="{StaticResource datePickerStyle}"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" VerticalOptions="EndAndExpand">
+                <Button Text="Anuluj" Command="{Binding CancelCommand}" Style="{StaticResource cancelStyle}"></Button>
+                <Button Text="Zapisz" Command="{Binding SaveCommand}" Style="{StaticResource saveStyle}"></Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

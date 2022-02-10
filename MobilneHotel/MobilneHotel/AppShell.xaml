@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms" 
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:local="clr-namespace:MobilneHotel.Views"
+       xmlns:klient="clr-namespace:MobilneHotel.Views.Klient"
+       xmlns:pracownik="clr-namespace:MobilneHotel.Views.Pracownik"
+       xmlns:rezerwacja="clr-namespace:MobilneHotel.Views.Rezerwacja"
+       xmlns:pokoj="clr-namespace:MobilneHotel.Views.Pokoj"
+       xmlns:rodzajPokoju="clr-namespace:MobilneHotel.Views.RodzajPokoju"
+       xmlns:raporty="clr-namespace:MobilneHotel.Views.Raporty"
+       Title="MobilneHotel"
+       x:Class="MobilneHotel.AppShell">
+    <!--
+        The overall app visual hierarchy is defined here, along with navigation.
+    
+        https://docs.microsoft.com/xamarin/xamarin-forms/app-fundamentals/shell/
+    -->
+    <Shell.Resources>
+        <ResourceDictionary>
+            <Style x:Key="BaseStyle" TargetType="Element">
+                <Setter Property="Shell.BackgroundColor" Value="#5c04c5" />
+                <Setter Property="Shell.ForegroundColor" Value="White" />
+                <Setter Property="Shell.TitleColor" Value="White" />
+                <Setter Property="Shell.DisabledColor" Value="#B4FFFFFF" />
+                <Setter Property="Shell.UnselectedColor" Value="#95FFFFFF" />
+                <Setter Property="Shell.TabBarBackgroundColor" Value="#5c04c5" />
+                <Setter Property="Shell.TabBarForegroundColor" Value="White"/>
+                <Setter Property="Shell.TabBarUnselectedColor" Value="#95FFFFFF"/>
+                <Setter Property="Shell.TabBarTitleColor" Value="White"/>
+            </Style>
+            <Style TargetType="TabBar" BasedOn="{StaticResource BaseStyle}" />
+            <Style TargetType="FlyoutItem" BasedOn="{StaticResource BaseStyle}" />
+            <!--
+            Default Styles for all Flyout Items
+            https://docs.microsoft.com/xamarin/xamarin-forms/app-fundamentals/shell/flyout#flyoutitem-and-menuitem-style-classes
+            -->
+            <Style Class="FlyoutItemLabelStyle" TargetType="Label">
+                <Setter Property="TextColor" Value="White"></Setter>
+                <Setter Property="FontSize" Value="18"></Setter>
+            </Style>
+            <Style Class="FlyoutItemLayoutStyle" TargetType="Layout" ApplyToDerivedTypes="True">
+                <Setter Property="VisualStateManager.VisualStateGroups">
+                    <VisualStateGroupList>
+                        <VisualStateGroup x:Name="CommonStates">
+                            <VisualState x:Name="Normal">
+                                <VisualState.Setters>
+                                    <Setter Property="BackgroundColor" Value="{x:OnPlatform UWP=Transparent, iOS=White}" />
+                                    <Setter TargetName="FlyoutItemLabel" Property="Label.TextColor" Value="White" />
+                                </VisualState.Setters>
+                            </VisualState>
+                            <VisualState x:Name="Selected">
+                                <VisualState.Setters>
+                                    <Setter Property="BackgroundColor" Value="{StaticResource Primary}" />
+                                </VisualState.Setters>
+                            </VisualState>
+                        </VisualStateGroup>
+                    </VisualStateGroupList>
+                </Setter>
+            </Style>
+            <!--
+            Custom Style you can apply to any Flyout Item
+            -->
+            <Style Class="MenuItemLayoutStyle" TargetType="Layout" ApplyToDerivedTypes="True">
+                <Setter Property="VisualStateManager.VisualStateGroups">
+                    <VisualStateGroupList>
+                        <VisualStateGroup x:Name="CommonStates">
+                            <VisualState x:Name="Normal">
+                                <VisualState.Setters>
+                                    <Setter TargetName="FlyoutItemLabel" Property="Label.TextColor" Value="{StaticResource Primary}" />
+                                </VisualState.Setters>
+                            </VisualState>
+                        </VisualStateGroup>
+                    </VisualStateGroupList>
+                </Setter>
+            </Style>
+        </ResourceDictionary>
+    </Shell.Resources>
+
+    <Shell.FlyoutHeader>
+        <ContentView xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             HeightRequest="150">
+            <Grid BackgroundColor="white">
+                <Image   Source="icons/logo.jpg"  />
+            </Grid>
+        </ContentView>
+    </Shell.FlyoutHeader>
+
+    <Shell.ItemTemplate >
+        <DataTemplate >
+            <Grid ColumnDefinitions="0.2*,0.8*"  >
+                <Image Source="{Binding FlyoutIcon}"
+                       Margin="5,15"
+                       HeightRequest="20" />
+                <Label Grid.Column="1"
+                       Text="{Binding Title}"
+                       FontSize="20"
+                       VerticalTextAlignment="Center" 
+                       />
+            </Grid>
+        </DataTemplate>
+    </Shell.ItemTemplate>
+
+    <FlyoutItem Title="Dashboard" Icon="icons/dashboard.png">
+        <ShellContent Route="AboutPage" ContentTemplate="{DataTemplate local:AboutPage}"  />
+    </FlyoutItem>
+    <FlyoutItem Title="Klienci" Icon="icons/clients.png">
+        <ShellContent Route="KlientIndexPage" ContentTemplate="{DataTemplate klient:KlientIndexPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Pracownicy" Icon="icons/workers.png">
+        <ShellContent Route="PracownikIndexPage" ContentTemplate="{DataTemplate pracownik:PracownikIndexPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Pokoje" Icon="icons/room.png">
+        <ShellContent Route="PokojIndexPage" ContentTemplate="{DataTemplate pokoj:PokojIndexPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Rezerwacje" Icon="icons/reservation.png">
+        <ShellContent Route="RezerwacjaIndexPage" Icon="tab_feed.png" ContentTemplate="{DataTemplate rezerwacja:RezerwacjaIndexPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Rodzaje pokojów" Icon="icons/typeroom.png">
+        <ShellContent Route="RodzajPokojuIndexPage" ContentTemplate="{DataTemplate rodzajPokoju:RodzajPokojuIndexPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Raporty Dzienny" Icon="icons/raportutarg.png">
+        <ShellContent Route="UtargWDniuPage" ContentTemplate="{DataTemplate raporty:UtargWDniuPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Raporty klienta" Icon="icons/raportklient.png">
+        <ShellContent Route="WartosRezerwacjiKlientaPage" ContentTemplate="{DataTemplate raporty:WartosRezerwacjiKlientaPage}" />
+    </FlyoutItem>
+
+</Shell>
